@@ -9,3 +9,11 @@ tsconfig.tsbuildinfo
 private/
 .replit
 replit.nix
+quartz/
+Dockerfile
+LICENSE
+CODE_OF_CONDUCT
+globals.d.ts
+tsconfig.json
+package.json
+package-lock.json
